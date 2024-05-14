@@ -53,7 +53,7 @@ These Dashboards uses following tableau features and functionality:
     Parameter Actions
     Drill Down set action
     Level of Detail Expressions (LODs)
-    Control Visibility
+    Dynamic Zone Visibility
     Navigation Buttons
     Annotations
     Custom Formatting
